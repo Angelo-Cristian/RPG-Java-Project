@@ -1,4 +1,4 @@
-# RPG Java Project
+# 🎮 RPG Java Project
 This is a simple RPG game made in java.  
 <img width="487" height="261" alt="RPG games" src="https://github.com/user-attachments/assets/6492ec6d-dce1-43a3-ab65-a1a7f10e122b" />
 
